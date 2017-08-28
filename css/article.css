@@ -1,0 +1,30 @@
+.contentContainer {
+	width:800px; /*height wrap content*/
+	position:relative;
+	top:75px;
+	left:20%;/*center*/
+	background:rgba(0,0,0,0.6);
+	z-index: -1;
+
+}
+
+.articleImg {
+	width:500px;height:300px;
+	position:relative;
+	top:10px;
+	left:26%;/*center*/
+}
+
+.article {
+	font-size: 24px;
+}
+
+.article h1 {
+	text-align: center;
+}
+
+.article p {
+	text-align: justify;
+	line-height: 25px;
+	padding:0 5%;
+}

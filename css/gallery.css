@@ -1,0 +1,10 @@
+.tableContainer {
+	width:0;height:0;
+	position:relative;
+	left:21%;
+	top:100px;
+}
+
+.galleryImg {
+	width:250px;height: 200px;
+}
